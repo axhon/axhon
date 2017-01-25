@@ -1,0 +1,25 @@
+{
+  "name": "axhon",
+  "version": "1.0.0",
+  "description": "Axhon, the one and only...",
+  "main": "axhon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "axhon",
+    "developer",
+    "frontend",
+    "backend"
+  ],
+  "author": {
+    "name": "Axhon Ruiz",
+    "email": "axhonruiz@gmail.com",
+    "url": "http://axhon.github.io"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "axhon": "./lib/axhon.js"
+  },
+  "license": "ISC"
+}
